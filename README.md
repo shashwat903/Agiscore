@@ -63,7 +63,7 @@ AGISCORE/
 ## 🚀 Getting Started
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/shashwat609/AGISCORE.git
+   git clone https://github.com/shashwat903/AGISCORE.git
    cd AGISCORE
 ```
 2. **Install the Arduino IDE** from [arduino.cc](https://www.arduino.cc/en/software).
